@@ -1,0 +1,16 @@
+[
+{
+    "model": "rapihogar.scheme",
+    "pk": 1,
+    "fields": {
+        "name": "Asistencia"
+    }
+},
+{
+    "model": "rapihogar.scheme",
+    "pk": 2,
+    "fields": {
+        "name": "Siniestro"
+    }
+}
+]

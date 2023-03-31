@@ -1,0 +1,12 @@
+[
+{
+    "model": "rapihogar.company",
+    "pk": 1,
+    "fields": {
+        "name": "aseguradora",
+        "phone": "123456",
+        "email": "aseguradora@rapihogar.com",
+        "website": "www.rapihogar.com"
+    }
+}
+]

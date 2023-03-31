@@ -1,0 +1,38 @@
+[
+{
+    "model": "rapihogar.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$OMHOBwTqxS4Xd94ENRntnP$+vpR9CBoQbR6yGlBAAc+U8vS24AK8NjKN4bGbjxmqKw=",
+        "last_login": "2021-11-24T14:57:47Z",
+        "is_superuser": true,
+        "email": "admin@rapihogar.com",
+        "username": "admin",
+        "is_staff": true,
+        "is_active": true,
+        "whatsapp_phone": null,
+        "last_name": "admin",
+        "first_name": "admin",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "rapihogar.user",
+    "pk": 2,
+    "fields": {
+        "password": "123456",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "javier@rapihogar.com",
+        "username": "jacuenca",
+        "is_staff": false,
+        "is_active": true,
+        "whatsapp_phone": "123456789",
+        "last_name": "Cuenca",
+        "first_name": "Javier",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
